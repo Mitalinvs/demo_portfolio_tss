@@ -15,4 +15,4 @@ TSS Portfolio is an example portfolio website built with HTML, CSS, and Bootstra
 
 ## Preview
 
-You can preview the TSS Portfolio website: (https://mitalinvs.github.io/demo_portfolio_tss/)https://mitalinvs.github.io/demo_portfolio_tss/
+You can preview the TSS Portfolio website [here](https://mitalinvs.github.io/demo_portfolio_tss/)
